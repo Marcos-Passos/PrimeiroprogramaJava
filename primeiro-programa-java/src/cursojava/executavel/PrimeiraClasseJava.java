@@ -21,6 +21,7 @@ public class PrimeiraClasseJava {
         String pai  = JOptionPane.showInputDialog("Nome do pai:");
         String matricula  = JOptionPane.showInputDialog("data da matricula:");
         String serie = JOptionPane.showInputDialog("Qual a serie?");
+        
         String escola  = JOptionPane.showInputDialog("Nome da escola");
 
 
