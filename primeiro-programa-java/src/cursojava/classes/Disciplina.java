@@ -8,7 +8,7 @@ private double nota;
 
 private String disciplina;
 
-public double getNota() {
+public double getNota( ) {
 return nota;
  }
 
