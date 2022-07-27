@@ -21,6 +21,7 @@ return disciplina;
  }
 
 public void setDisciplina(String disciplina) {
+	
 this.disciplina = disciplina;
  }
 

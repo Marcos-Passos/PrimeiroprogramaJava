@@ -43,6 +43,7 @@ public Aluno() {
     }
 
     public void setNome(String nome) {
+    	
         this.nome = nome;
     }
 

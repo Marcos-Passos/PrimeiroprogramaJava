@@ -62,6 +62,7 @@ public class PrimeiraClasseJava {
 			if (escolha == 0) {/* opção sim é zero */
 
 				int continuarRemover = 0;
+				
 				int posicao = 1;
 
 				while (continuarRemover == 0) {
